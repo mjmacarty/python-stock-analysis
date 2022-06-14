@@ -206,7 +206,7 @@ def get_earnings(key):
     for row in range(len(eps)):
         if eps.earnings.iloc[row]['code'].endswith('US'):
             symbols.append(eps.earnings[row]['code'][:-3])
-    print(f"There are {len(symbols)} companies repoting this week")
+    print(f"There are {len(symbols)} companies reporting this week")
     return symbols        
 
 
