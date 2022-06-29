@@ -7,3 +7,4 @@
 * [Part 4](https://youtu.be/dPloA2TAo_c)
 * [Part 5](https://youtu.be/OYS75jihV5Y)
 * [Part 6](https://youtu.be/Ox7qVlfNYNE)
+* [Part 7](https://youtu.be/lqeGdfprKn0)

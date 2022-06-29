@@ -234,7 +234,7 @@ def main():
     # tickers = "AAPL AMZN GOOG NVDA".split()
     # returns = get_return_data(*tickers, key=key)
     # print(returns[0])
-    # plot_performance('energy')
+    plot_performance('energy')
     # print(get_earnings(key))
     print(get_dividends(key ))
 
