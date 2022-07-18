@@ -236,7 +236,7 @@ def main():
     # print(returns[0])
     plot_performance('energy')
     # print(get_earnings(key))
-    print(get_dividends(key ))
+    # print(get_dividends(key ))
 
 
 

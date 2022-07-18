@@ -8,3 +8,5 @@
 * [Part 5](https://youtu.be/OYS75jihV5Y)
 * [Part 6](https://youtu.be/Ox7qVlfNYNE)
 * [Part 7](https://youtu.be/lqeGdfprKn0)
+* [Part 8](https://youtu.be/qkLBdazECss)
+8 [Part 9](https://youtu.be/oVKevwdOl4A)
